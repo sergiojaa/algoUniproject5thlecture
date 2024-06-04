@@ -139,3 +139,8 @@
 //shell
 //> Each person gets 2 pieces of pizza.
 //> Each person gets 1 piece of pizza.
+// let people = 10
+// let pizzas = 10
+// let pizzaSlices = 5
+// let eachSlices = pizzaSlices * pizzas
+// console.log(`each person gets ${eachSlices / people} slices`)
